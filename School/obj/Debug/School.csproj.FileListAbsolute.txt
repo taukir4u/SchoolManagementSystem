@@ -1,0 +1,4 @@
+c:\users\shunno\documents\visual studio 2010\Projects\School\School\bin\School.dll
+c:\users\shunno\documents\visual studio 2010\Projects\School\School\bin\School.pdb
+c:\users\shunno\documents\visual studio 2010\Projects\School\School\obj\Debug\School.dll
+c:\users\shunno\documents\visual studio 2010\Projects\School\School\obj\Debug\School.pdb
